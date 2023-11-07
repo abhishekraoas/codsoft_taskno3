@@ -25,13 +25,14 @@ Once the program is running, you will be presented with a text-based menu. You c
 
   Here is an example of how to use the ATM simulator:   
 
-<ul><li>Welcome to the SBI ATM!</li>
+Welcome to the SBI ATM!
 <li>1. Check Balance</li>
 <li>2. Deposit</li>
 <li>3. Withdraw</li>
 <li>4. Exit</li>
 <br>
-<li>Enter your choice: 2</li>
+Enter your choice: 2
+
 <li>Enter the deposit amount: 500</li>
 <li>Deposited: 500.0</li>
 <li>1. Check Balance</li>
@@ -39,14 +40,15 @@ Once the program is running, you will be presented with a text-based menu. You c
 <li>3. Withdraw</li>
 <li>4. Exit</li>
 <br>
-<li>Enter your choice: 1</li>
+Enter your choice: 1
+
 <li>Current Balance: 1500.0</li>
 <li>1. Check Balance</li>
 <li>2. Deposit</li>
 <li>3. Withdraw</li>
 <li>4. Exit</li>
 <br>
-<li>Enter your choice: 3</li>
+Enter your choice: 3
 <li>Enter the withdrawal amount: 700</li>
 <li>Withdrawn: 700.0</li>
 <li>1. Check Balance</li>
@@ -54,8 +56,9 @@ Once the program is running, you will be presented with a text-based menu. You c
 <li>3. Withdraw</li>
 <li>4. Exit</li>
 <br>
-<li>Enter your choice: 4</li>
-<li>Thank you for using the SBI ATM.</li></ul>
+Enter your choice: 4
+<br>
+Thank you for using the SBI ATM.<ul>
 
 
 ## License
